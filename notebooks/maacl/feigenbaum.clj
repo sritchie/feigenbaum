@@ -1,7 +1,7 @@
 ;; # Feigenbaum
 
 ^{:nextjournal.clerk/toc true}
-(ns maacl.mathbox.feigenbaum
+(ns maacl.feigenbaum
   (:require [mentat.clerk-utils.show :refer [show-sci]]
             [nextjournal.clerk :as clerk]))
 
